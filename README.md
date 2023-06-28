@@ -16,7 +16,7 @@
 
 [Bash functions](Bash-Scripting/Bash-functions.md)
 
-[Arithmetic operations](Bash-Scripting/Arithmetic-Operations.md)
+[Arithmetic operations](Bash-Scripting/Bash-Arithmetic-operations.md)
 
 [Bash parameter expansion](Bash-Scripting/Bash-parameter-expansion.md)
 
