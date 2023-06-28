@@ -10,7 +10,7 @@
 
 [Bash Arrays](Bash-Scripting/Bash-Arrays.md)
 
-[Bash conditions and flow control](Bash%20scripting%20e5c6ee7092724924b0e53c27cedc0488/Bash%20conditions%20and%20flow%20control%20343f770e7c4d442f92bca68eeb28e3f2.md)
+[Bash conditions and flow control](Bash-Scripting/Bash-conditions-and-flow-control.md)
 
 [Bash loops](Bash%20scripting%20e5c6ee7092724924b0e53c27cedc0488/Bash%20loops%20847b1638d8c440ffa58454d2185a6836.md)
 
