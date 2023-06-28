@@ -4,7 +4,7 @@
 💡if you have to do it more than once, automate it! 
 </aside>
 
-[Getting started](Bash%20scripting%20e5c6ee7092724924b0e53c27cedc0488/Getting%20started%20712bdab97df8422b9a65695a28052390.md)
+[Getting started](Bash-Scripting/Getting-Started.md)
 
 [Bash built-in commands](Bash%20scripting%20e5c6ee7092724924b0e53c27cedc0488/Bash%20built-in%20commands%20d37e6b1a7ac2468695bf34c9bc81680d.md)
 
