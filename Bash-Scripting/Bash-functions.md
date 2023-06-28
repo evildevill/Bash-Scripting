@@ -24,7 +24,7 @@ add_numbers() {
 		# perfoming mathematical additions
     local result=$(( $1 + $2)
 		
-		# returning the sresult value
+		# returning the result value
     echo $result
 }
 
