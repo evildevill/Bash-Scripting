@@ -16,7 +16,7 @@
 
 [Bash functions](Bash%20scripting%20e5c6ee7092724924b0e53c27cedc0488/Bash%20functions%20057a6da47fbd4394a26c5cd98fe72216.md)
 
-[Arithmetic operations](Bash%20scripting%20e5c6ee7092724924b0e53c27cedc0488/Arithmetic%20operations%2068b9d24731e74ddebd71061e112b775a.md)
+[Arithmetic operations](Bash-Scripting/Arithmetic-Operations.md)
 
 [Bash parameter expansion](Bash%20scripting%20e5c6ee7092724924b0e53c27cedc0488/Bash%20parameter%20expansion%20fd63c374be5b4e70b68a52c60866c1ec.md)
 
