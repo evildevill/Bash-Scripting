@@ -6,9 +6,9 @@
 
 [Getting started](Bash-Scripting/Getting-Started.md)
 
-[Bash built-in commands](Bash%20scripting%20e5c6ee7092724924b0e53c27cedc0488/Bash%20built-in%20commands%20d37e6b1a7ac2468695bf34c9bc81680d.md)
+[Bash built-in commands](Bash-Scripting/Bash-built-in-commands.md)
 
-[Bash Arrays](Bash%20scripting%20e5c6ee7092724924b0e53c27cedc0488/Bash%20Arrays%20032c871bd3404c88a2b14edd457b82bc.md)
+[Bash Arrays](Bash-Scripting/Bash-Arrays.md)
 
 [Bash conditions and flow control](Bash%20scripting%20e5c6ee7092724924b0e53c27cedc0488/Bash%20conditions%20and%20flow%20control%20343f770e7c4d442f92bca68eeb28e3f2.md)
 
